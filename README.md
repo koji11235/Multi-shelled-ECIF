@@ -1,4 +1,7 @@
 # Multi-shelled-ECIF
+Improved version of extended connectivity interaction features (ECIF) by enabling to take the atomic distance into account.
+
+<img src="./graphical_abstract.png" alt="">
 
 ## Script
 * msecif.py
